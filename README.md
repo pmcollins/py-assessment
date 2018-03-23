@@ -26,4 +26,3 @@ the script's operation.
 * [sql](sql): the sql files. All of them are used except for `top-coach-players-inline.sql`, which
 is just `top-coach-players.sql` with the views inlined.
 * output.txt: output of the script when I ran it
-# py-assessment

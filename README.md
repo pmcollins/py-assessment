@@ -24,4 +24,5 @@ drop database artifacts every time a script is run, but doing so simplifies the 
     * scoretests.py: unit tests
 * [sql](sql): the sql files. All of them are used except for `top-coach-players-inline.sql`, which
 is just `top-coach-players.sql` with the views inlined.
-* output.txt: output of the script when I ran it
+* [output.txt](output.txt): output of the script when I ran it
+

@@ -1,8 +1,8 @@
 ### Python Assessment
 
-An assessment in response to a prompt for a Python development position. I'm leaving out the
-details of the prompt to reduce the chances of this repo showing up in searches performed by
-candidates who haven't solved the problem themselves yet.
+An assessment for a Python development position. I'm leaving out the details of the prompt to reduce
+the chances of this repo showing up in searches performed by candidates who haven't solved the problem
+themselves yet.
 
 ##### Overview
 
@@ -11,9 +11,8 @@ then run it with a Python 2.7 interpreter. It should first create the tables, vi
 procedure, then populate them with data, run the queries, and print the results.
 
 I approached this task with the objective of making the program as turn-key as possible, so I added
-some things that I wouldn't want in a production environment. For example, I probably
-wouldn't normally drop database artifacts every time a script is run, but doing so simplifies
-the script's operation.
+some things that I wouldn't want in a production environment. For example, I probably wouldn't normally
+drop database artifacts every time a script is run, but doing so simplifies the script's operation.
 
 ##### Contents
 
